@@ -1,11 +1,11 @@
-import React from 'react';
+import { Table } from "src/components/ui";
 
 const UserTable = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return (
+    <div>
+      <Table />
+    </div>
+  );
 };
 
 export default UserTable;

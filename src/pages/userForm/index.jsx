@@ -1,11 +1,11 @@
-import React from 'react';
+import Form from "./Form";
 
 const UserForm = () => {
-    return (
-        <div>
-          TSC  
-        </div>
-    );
+  return (
+    <div>
+      <Form />
+    </div>
+  );
 };
 
 export default UserForm;
