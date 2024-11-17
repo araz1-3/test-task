@@ -7,7 +7,9 @@
         "assets": ["./src/assets/*"],
         "pages": ["./src/pages/*"],
         "layout": ["./src/layout/*"],
-        "redux": ["./src/redux/*"],
+        "app": ["src/app/*"],
+        "utils": ["src/utils/*"],
+        "hooks": ["src/hooks/*"],
       }
     }
 }
